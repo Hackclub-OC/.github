@@ -12,3 +12,8 @@ Projects you can see:
 2. Minimalist Design Framework **`In Progress`**
    - Will be hosted at `https://ui.theme-verse.com` and `https://oneui.xyz`
    - [More details here](https://github.com/Hackclub-OC/Minimalist)
+
+3. Vision OS
+   - Will be hosted at `https://vision-os.xyz` and `https://vision.theme-verse.com`
+   - [More details here](https://github.com/Hackclub-OC/Minimalist)
+  
