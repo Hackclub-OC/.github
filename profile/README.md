@@ -14,6 +14,6 @@ Projects you can see:
    - [More details here](https://github.com/Hackclub-OC/Minimalist)
 
 3. Vision OS
-   - Will be hosted at `https://vision-os.xyz` and `https://vision.theme-verse.com`
+   - Will be hosted at `https://vision-os.xyz` and `https://vos.theme-verse.com`
    - [More details here](https://github.com/Hackclub-OC/vision-os)
   
