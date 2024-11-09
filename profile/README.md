@@ -9,11 +9,13 @@ Projects you can see:
    - Hosted [here](https://isa.theme-verse.com) `or` at https://isa.theme-verse.com `or` https://isa.oneui.xyz
    - [More details here](https://github.com/Hackclub-OC/Image-Scroll-Animation)
 
-2. Minimalist Design Framework **`In Progress`**
+2. Vision OS
+   - Will be hosted at `https://vision-os.xyz` and `https://vos.theme-verse.com`
+   - [More details here](https://github.com/Hackclub-OC/vision-os)
+
+3. Minimalist Design Framework **`In Progress`**
    - Will be hosted at `https://ui.theme-verse.com` and `https://oneui.xyz`
    - [More details here](https://github.com/Hackclub-OC/Minimalist)
 
-3. Vision OS
-   - Will be hosted at `https://vision-os.xyz` and `https://vos.theme-verse.com`
-   - [More details here](https://github.com/Hackclub-OC/vision-os)
+
   
