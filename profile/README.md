@@ -10,10 +10,13 @@ Projects you can see:
    - [More details here](https://github.com/Hackclub-OC/Image-Scroll-Animation)
 
 2. Vision OS
-   - Will be hosted at `https://vision-os.xyz` and `https://vos.theme-verse.com`
+   - Hosted [here](https://vos.theme-verse.com) or visit at `https://vision-os.xyz` and `https://vos.theme-verse.com`
    - [More details here](https://github.com/Hackclub-OC/vision-os)
 
-3. Minimalist Design Framework **`In Progress`**
+3. ColoureD
+   - Will be hosted at `https://colored.theme-verse.com` or `https://cd.theme-verse.com`
+
+5. Minimalist Design Framework **`In Progress`**
    - Will be hosted at `https://ui.theme-verse.com` and `https://oneui.xyz`
    - [More details here](https://github.com/Hackclub-OC/Minimalist)
 
