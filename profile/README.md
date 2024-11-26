@@ -21,4 +21,5 @@ Projects you can see:
    - [More details here](https://github.com/Hackclub-OC/Minimalist)
 
 
-  
+
+<!--  https://x.com/meodai/status/1861068150642540663 --> 
