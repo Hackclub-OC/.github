@@ -13,6 +13,7 @@ Projects you can see:
    - Hosted [here](https://vos.theme-verse.com) or visit at `https://vision-os.xyz` and `https://vos.theme-verse.com`
    - [More details here](https://github.com/Hackclub-OC/vision-os)
 
+<!--
 3. ColoureD
    - Will be hosted at `https://colored.theme-verse.com` or `https://cd.theme-verse.com`
 
