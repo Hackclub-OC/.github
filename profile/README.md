@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### This repository is a collection of projects that **[I](https://github.com/gitstar-oc)** created for Hackclub's High Seas. 
+### This organization is a collection of projects that **[I](https://github.com/gitstar-oc)** created for Hackclub's High Seas. 
 
----
+<!---
 Projects you can see:
 
 1. Image Scroll Animation
