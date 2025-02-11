@@ -1,6 +1,6 @@
 # OC Hackclub HighSeas's Projects
 
-> 🚀 A collection of projects created by **[OC](https://github.com/gitstar-oc)** during [Hackclub's High Seas Event](https://highseas.hackclub.com/) from **October 31st to January 31st**.
+> A collection of projects created by **[OC](https://github.com/gitstar-oc)** during [Hackclub's High Seas Event](https://highseas.hackclub.com/) from **October 31st to January 31st**.
 
 
 ---
